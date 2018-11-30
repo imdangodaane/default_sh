@@ -1,0 +1,196 @@
+Activating service name='org.ayatana.bamf'
+Activating service name='ca.desrt.dconf'
+Successfully activated service 'ca.desrt.dconf'
+Activating service name='org.a11y.Bus'
+Successfully activated service 'org.a11y.Bus'
+Activating service name='org.a11y.atspi.Registry'
+Successfully activated service 'org.a11y.atspi.Registry'
+Activating service name='org.gtk.vfs.Daemon'
+
+** (process:5115): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+Successfully activated service 'org.gtk.vfs.Daemon'
+Successfully activated service 'org.ayatana.bamf'
+Activating service name='org.freedesktop.systemd1'
+Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1
+Activating service name='org.gnome.evolution.dataserver.Sources5'
+Activating service name='org.gnome.ScreenSaver'
+Successfully activated service 'org.gnome.evolution.dataserver.Sources5'
+Activating service name='org.gnome.evolution.dataserver.Calendar7'
+
+** (gnome-screensaver:5344): WARNING **: Couldn't get presence status: The name org.gnome.SessionManager was not provided by any .service files
+Successfully activated service 'org.gnome.ScreenSaver'
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: picture-opacity
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: primary-color
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: secondary-color
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: color-shading-type
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: show-notifications
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: picture-options
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: show-full-name-in-top-bar
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: picture-uri
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-command-line
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-application-handlers
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: user-administration-disabled
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-printing
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-log-out
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-print-setup
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-save-to-disk
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: picture-opacity
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: primary-color
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: secondary-color
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: color-shading-type
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: show-notifications
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: picture-options
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: show-full-name-in-top-bar
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: picture-uri
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-command-line
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-application-handlers
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: user-administration-disabled
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-printing
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-log-out
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-print-setup
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-save-to-disk
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: picture-opacity
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: primary-color
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: secondary-color
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: color-shading-type
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: show-notifications
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: picture-options
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: show-full-name-in-top-bar
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: picture-uri
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-command-line
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-application-handlers
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: user-administration-disabled
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-printing
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-log-out
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-print-setup
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-save-to-disk
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: picture-opacity
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: primary-color
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: secondary-color
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: color-shading-type
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: show-notifications
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: picture-options
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: show-full-name-in-top-bar
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: picture-uri
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-command-line
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-application-handlers
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: user-administration-disabled
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-printing
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-log-out
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-print-setup
+
+** (gnome-screensaver:5344): WARNING **: Config key not handled: disable-save-to-disk
+Successfully activated service 'org.gnome.evolution.dataserver.Calendar7'
+Activating service name='org.freedesktop.secrets'
+Activating service name='org.gnome.evolution.dataserver.AddressBook9'
+gnome-keyring-daemon: error getting process capabilities, aborting
+Activated service 'org.freedesktop.secrets' failed: Process org.freedesktop.secrets exited with status 1
+Activating service name='org.gtk.vfs.UDisks2VolumeMonitor'
+Successfully activated service 'org.gnome.evolution.dataserver.AddressBook9'
+Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+Activating service name='org.gtk.vfs.GoaVolumeMonitor'
+Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+Activating service name='org.gtk.vfs.AfcVolumeMonitor'
+Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor'
+Activating service name='org.gtk.vfs.GPhoto2VolumeMonitor'
+Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor'
+Activating service name='org.gtk.vfs.MTPVolumeMonitor'
+Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+** Message: Lost the name, shutting down.
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
+Activating service name='org.gnome.zeitgeist.Engine'
+
+** (process:5649): WARNING **: zeitgeist-vacuum.vala:38: Impossible to open database `/tmp/guest-k7oovs/.local/share/zeitgeist/activity.sqlite': unable to open database file
+Activating service name='org.gnome.zeitgeist.SimpleIndexer'
+Successfully activated service 'org.gnome.zeitgeist.Engine'
+** Message: Index must be upgraded. Doing full rebuild
+Successfully activated service 'org.gnome.zeitgeist.SimpleIndexer'
+Activating service name='com.canonical.Unity.Scope.Home'
+Successfully activated service 'com.canonical.Unity.Scope.Home'
+Activating service name='com.canonical.Unity.Scope.Applications'
+Activating service name='com.canonical.Unity.Scope.LocalFiles'
+Error loading package indexes: Couldn't stat '/var/cache/software-center/xapian'
+
+(unity-scope-loader:5690): unity-applications-daemon-CRITICAL **: daemon.vala:144: Failed to load Software Center index. 'Apps Available for Download' will not be listed
+
+(process:5692): unity-files-daemon-WARNING **: folder.vala:65: Failed to read favorites: Failed to open file '/tmp/guest-k7oovs/.config/gtk-3.0/bookmarks': No such file or directory
+Successfully activated service 'com.canonical.Unity.Scope.LocalFiles'
+Successfully activated service 'com.canonical.Unity.Scope.Applications'
+Activating service name='org.gnome.Terminal'
+Activating service name='org.gnome.GConf'
+Successfully activated service 'org.gnome.GConf'
+Successfully activated service 'org.gnome.Terminal'
+Activating service name='org.freedesktop.secrets'
+Activating service name='org.freedesktop.Notifications'
+gnome-keyring-daemon: error getting process capabilities, aborting
+Activated service 'org.freedesktop.secrets' failed: Process org.freedesktop.secrets exited with status 1
+Successfully activated service 'org.freedesktop.Notifications'
+Activating service name='org.freedesktop.secrets'
+gnome-keyring-daemon: error getting process capabilities, aborting
+Activated service 'org.freedesktop.secrets' failed: Process org.freedesktop.secrets exited with status 1
+Activating service name='org.freedesktop.secrets'
+gnome-keyring-daemon: error getting process capabilities, aborting
+Activated service 'org.freedesktop.secrets' failed: Process org.freedesktop.secrets exited with status 1
+Activating service name='org.freedesktop.secrets'
+gnome-keyring-daemon: error getting process capabilities, aborting
+Activated service 'org.freedesktop.secrets' failed: Process org.freedesktop.secrets exited with status 1

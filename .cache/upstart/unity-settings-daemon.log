@@ -1,0 +1,12 @@
+
+** (unity-settings-daemon:5212): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(unity-settings-daemon:5212): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:5212): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:5212): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:5212): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:5212): color-plugin-WARNING **: failed to set screen _ICC_PROFILE: Failed to open file '/home/nqui/.local/share/icc/edid-7f3753684972a9b8cea3f3a50608d89a.icc': Permission denied

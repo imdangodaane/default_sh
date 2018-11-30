@@ -1,0 +1,55 @@
+gnome-session-binary[5220]: WARNING: Could not get session id for session. Check that logind is properly installed and pam_systemd is getting used at login.
+gnome-keyring-daemon: error getting process capabilities, aborting
+gnome-keyring-daemon: error getting process capabilities, aborting
+gnome-session-binary[5220]: WARNING: App 'gnome-keyring-secrets.desktop' exited with code 1
+gnome-session-binary[5220]: WARNING: App 'gnome-keyring-ssh.desktop' exited with code 1
+gnome-keyring-daemon: error getting process capabilities, aborting
+gnome-session-binary[5220]: WARNING: App 'gnome-keyring-pkcs11.desktop' exited with code 1
+
+(process:5385): indicator-application-service-WARNING **: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(process:5385): indicator-application-service-WARNING **: Name Lost
+No such schema 'org.mate.screensaver'
+No such schema 'apps.light-locker'
+No such schema 'apps.light-locker'
+No such schema 'apps.light-locker'
+No such schema 'apps.light-locker'
+
+(gnome-software:5384): GsPlugin-WARNING **: could not lookup cached macaroon: Error calling StartServiceByName for org.freedesktop.secrets: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.secrets exited with status 1
+
+(gnome-software:5384): Json-CRITICAL **: json_object_get_string_member: assertion 'object != NULL' failed
+
+(gnome-software:5384): Json-CRITICAL **: json_object_has_member: assertion 'object != NULL' failed
+
+(polkit-gnome-authentication-agent-1:5387): polkit-gnome-1-WARNING **: Unable to determine the session we are in: No session for pid 5387
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/mimeapps.list file: cannot process file of type text/plain
+
+** (zeitgeist-datahub:5932): WARNING **: zeitgeist-datahub.vala:229: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/chrome-apdfllckaahabafndbhieahigkjlhalf-Default.desktop file: cannot process file of type application/x-desktop
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/chrome-aohghmighlieiainnegkcijnfilokake-Default.desktop file: cannot process file of type application/x-desktop
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/mimeapps.list file: cannot process file of type text/plain
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/mimeapps.list.new file: cannot process file of type text/plain
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/mimeapps.list file: cannot process file of type text/plain
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/mimeapps.list.new file: cannot process file of type text/plain
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/mimeapps.list file: cannot process file of type text/plain
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/mimeapps.list.new file: cannot process file of type text/plain
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/mimeapps.list file: cannot process file of type text/plain
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/mimeapps.list.new file: cannot process file of type text/plain
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/mimeapps.list file: cannot process file of type text/plain
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/chrome-pjkljhegncpnkpknbcohdijeoejaedia-Default.desktop file: cannot process file of type application/x-desktop
+
+(gnome-software:5384): As-WARNING **: failed to rescan: Failed to parse /tmp/guest-k7oovs/.local/share/applications/chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default.desktop file: cannot process file of type application/x-desktop

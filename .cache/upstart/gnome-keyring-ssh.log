@@ -1,0 +1,2 @@
+grep: /tmp/guest-k7oovs/.config/autostart/gnome-keyring-ssh.desktop: No such file or directory
+gnome-keyring-daemon: error getting process capabilities, aborting
